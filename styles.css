@@ -114,7 +114,7 @@ body {
 
 .dispositivos__lista {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     list-style: none;
     margin: 5em;
 }
