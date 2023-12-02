@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto do alura plus.
 
 ![image](assets/Captura%20de%20tela%202023-12-02%20194007.png)
 
